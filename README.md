@@ -1,2 +1,2 @@
 # whitesuffolk-scraper
-scrapes the member directory data for contact details
+scrapes the member directory page for contact details
